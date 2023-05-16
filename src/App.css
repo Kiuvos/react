@@ -1,0 +1,24 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 3rem;
+}
+.table th {
+   
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+.table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+.mensaje{
+    text-align: center;
+}
